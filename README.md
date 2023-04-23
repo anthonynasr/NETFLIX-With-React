@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `in Request.js`
+add your own key from creating an account at Open[https://www.themoviedb.org/] 
 
 ### `yarn start`
 
